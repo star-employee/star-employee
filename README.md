@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/time-pocket-cf955b?style=for-the-badge" alt="custom badge"/> 
 </div>
   <div align="center">
-<img src="https://github.com/user-attachments/assets/ef1954a2-62df-4dc0-9eb4-7030a63b096b" alt="Croi1" width="220"/>
+<img src="https://github.com/user-attachments/assets/ef1954a2-62df-4dc0-9eb4-7030a63b096b" alt="Croi1" width="260"/>
 </div>
 
  <div align="center">
