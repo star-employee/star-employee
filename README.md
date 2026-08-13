@@ -19,13 +19,15 @@
   <div align="center">
 <img src="https://github.com/user-attachments/assets/ef1954a2-62df-4dc0-9eb4-7030a63b096b" alt="Croi1" width="470"/>
 </div>
-<div align="center">
+<div align="center"> 
+
+[<img alt="Croissant1" width="220" src="https://github.com/user-attachments/assets/9bf7a459-8dff-43c9-810f-734a75712eaa"/>](https://cookierun.fandom.com/wiki/Croissant_Cookie)
   
 [<img alt="Cog1" width="150" src="https://github.com/user-attachments/assets/248c5a94-489d-412d-9e59-8fff2ac108ed" />](https://zixu-an.atabook.org)
 [<img alt="Cog2" width="150" src="https://github.com/user-attachments/assets/dc9c42c5-a5b4-4486-ac52-39f954b081f2"/>](https://en.pronouns.page/@croissantling)
 
  
-<img src="https://readme-typing-svg.demolab.com/?lines=Then+who+AM+I?;An+imperfect+design?;An+exception+defined;Do+words+I+sing+even+mean+anything?;My+existence+attached+to+a+string;Then+who+is+SHE?;Who+sits+on+ivory?;The+one+they+call+`+The+Director+`;It's+all+we+know+under+your+control;Will+MY+purpose+forever+be+bound+to+YOURS?&font=Indie+Flower&center=true&width=570&height=48&color=cfaa61&duration=3000&pause=1300">
+<img src="https://readme-typing-svg.demolab.com/?lines=Then+who+AM+I?;An+imperfect+design?;An+exception+defined;Do+words+I+sing+even+mean+anything?;My+existence+attached+to+a+string;Then+who+is+SHE?;Who+sits+on+ivory?;The+one+they+call+`+The+Director+`;It's+all+we+know+under+your+control;Will+MY+purpose+forever+be+bound+to+YOURS?&font=Indie+Flower&center=true&width=540&height=46&color=cfaa61&duration=3000&pause=1300">
 <br>
 <img src="https://readme-typing-svg.demolab.com/?lines=String+Theory+---+vally.exe&font=Indie+Flower&center=true&width=250&height=25&color=bd885b&duration=3000&pause=1300">
 <br>
