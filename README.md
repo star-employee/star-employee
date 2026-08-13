@@ -16,11 +16,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/time-pocket-cf955b?style=for-the-badge" alt="custom badge"/> 
 </div>
-  <div align="left">
-<img src="https://github.com/user-attachments/assets/ef1954a2-62df-4dc0-9eb4-7030a63b096b" alt="Croi1" width="500"/>
+  <div align="center">
+<img src="https://github.com/user-attachments/assets/ef1954a2-62df-4dc0-9eb4-7030a63b096b" alt="Croi1" width="470"/>
 </div>
+<div align="center">
   
-<img src="https://readme-typing-svg.demolab.com/?lines='+The+crashing+sound+of+metal,+the+bleeding+from+my+nose+';'+I'm+so+stupid,+I+know+';'+Fucking+awful,+I+know+';'+The+iron+taste+in+my+mouth+mixes+with+the+merlot+';'+They+won't+breathe+anymore.+';'+THEY+WON'T+BREATHE+ANYMORE.+'&font=Indie+Flower&center=true&width=520&height=45&color=cfaa61&duration=3000&pause=1300">
+[<img alt="Cog1" width="150" src="https://github.com/user-attachments/assets/248c5a94-489d-412d-9e59-8fff2ac108ed" />](https://zixu-an.atabook.org)
+[<img alt="Cog2" width="150" src="https://github.com/user-attachments/assets/dc9c42c5-a5b4-4486-ac52-39f954b081f2"/>](https://en.pronouns.page/@croissantling)
+
+  <img src="https://github.com/user-attachments/assets/96b8e96a-b417-46ef-ac4f-cb2d6600d585" alt="Timecraft1" width="170"/>
+</div>
+  <br>
+<img src="https://readme-typing-svg.demolab.com/?lines='+Then+who+AM+I?+';'+An+imperfect+design?+';'+An+exception+defined+';'+Do+words+I+sing+even+mean+anything?+';'+My+existence+attached+to+a+string+';'+Then+who+is+SHE+';'+Who+sits+on+ivory?+';'+The+one+they+call+The+Director+'
+&font=Indie+Flower&center=true&width=550&height=45&color=cfaa61&duration=3000&pause=1300">
 </td>
 </tr>
 </table>
@@ -32,3 +40,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f9a18679-a6e7-4967-8798-a52e0568e090" alt="Background2" width="580"
 </div>
+
+
