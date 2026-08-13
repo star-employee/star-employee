@@ -25,9 +25,9 @@
 </div>
 <br>
 <div align="center"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=she/they+only&font=Pixelify+Sans&center=true&width=180&height=19&color=bf8769&duration=3000&pause=2000">
+<img src="https://readme-typing-svg.demolab.com/?lines=she/they+only&font=Pixelify+Sans&center=true&width=160&height=19&color=bf8769&duration=3000&pause=2000">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com/?lines=zixuan+,+croissant+or+six&font=Pacifico&center=true&width=230&height=23&color=d9b26a&duration=3000&pause=2000">
+<img src="https://readme-typing-svg.demolab.com/?lines=zixuan+,+croissant+or+six&font=Pacifico&center=true&width=210&height=23&color=d9b26a&duration=3000&pause=2000">
 
 [<img alt="Croissant1" width="200" src="https://github.com/user-attachments/assets/9bf7a459-8dff-43c9-810f-734a75712eaa"/>](https://cookierun.fandom.com/wiki/Croissant_Cookie)
 
