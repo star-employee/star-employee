@@ -40,6 +40,9 @@
 [<img alt="Cog1" width="110" src="https://github.com/user-attachments/assets/248c5a94-489d-412d-9e59-8fff2ac108ed" />](https://zixu-an.atabook.org)
 [<img alt="Cog2" width="110" src="https://github.com/user-attachments/assets/dc9c42c5-a5b4-4486-ac52-39f954b081f2"/>](https://en.pronouns.page/@croissantling)
 
+[<img alt="Cog3" width="110" src="https://github.com/user-attachments/assets/100ba95a-92d2-4cf1-a1af-c14b7b991f1c" />](https://rentry.co/edgylords)
+
+
 </td>
 </tr>
 </table>
