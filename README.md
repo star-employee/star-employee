@@ -58,6 +58,14 @@
 </tr>
 </table>
 </div>
+<br>
+<details>
+<summary>ㅤ</summary>
+<a href="https://github.com/title-town">@title-town</a> , <a href="https://github.com/pt-fashion">@pt-fashion</a> , <a href="https://github.com/pt-friendships">@pt-friendships</a> , <a href="https://github.com/cosplaytown">@cosplaytown</a> , <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> , <a href="https://github.com/music-town">@music-town</a>
+ <br><br> thankyyou for nominating me!! and thankyou for those who put a message for me!
+</details>
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7a28da02-1609-4703-90f6-e98fa8257e49" alt="Border2" width="220"/>
 </div>
