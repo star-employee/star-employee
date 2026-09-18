@@ -62,7 +62,21 @@
 <details>
 <summary>ㅤ</summary>
 <a href="https://github.com/title-town">@title-town</a> , <a href="https://github.com/pt-fashion">@pt-fashion</a> , <a href="https://github.com/pt-friendships">@pt-friendships</a> , <a href="https://github.com/cosplaytown">@cosplaytown</a> , <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> , <a href="https://github.com/music-town">@music-town</a>
- <br><br> thankyyou for nominating me!! and thankyou for those who put a message for me!
+ <br><br> $${\color{#c78e4e}thankyyou}$$ 
+$${\color{#deb74e}for}$$
+$${\color{#c78e4e}nominating}$$
+$${\color{#deb74e}me!!}$$
+<br> $${\color{#c78e4e}and}$$
+$${\color{#deb74e}thankyouu}$$
+$${\color{#c78e4e}for}$$
+$${\color{#deb74e}those}$$
+$${\color{#c78e4e}who}$$
+$${\color{#deb74e}put}$$
+$${\color{#c78e4e}a}$$
+$${\color{#deb74e}message}$$
+$${\color{#c78e4e}for}$$
+$${\color{#deb74e}me!!}$$
+
 </details>
 
 
