@@ -76,6 +76,13 @@ $${\color{#c78e4e}a}$$
 $${\color{#deb74e}message}$$
 $${\color{#c78e4e}for}$$
 $${\color{#deb74e}me!!}$$
+<br>
+$${\color{#c78e4e}⌄}$$
+  
+<br><br>
+ <div align="center">
+<img src="https://github.com/user-attachments/assets/3858fe76-142c-43cd-9af0-1f2bc4cb5051" alt="SCREAMS" width="350"/>
+</div>
 
 </details>
 
