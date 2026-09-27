@@ -61,7 +61,7 @@
 <br>
 <details>
 <summary>ㅤ</summary>
-<a href="https://github.com/title-town">@title-town</a> , <a href="https://github.com/pt-fashion">@pt-fashion</a> , <a href="https://github.com/pt-friendships">@pt-friendships</a> , <a href="https://github.com/cosplaytown">@cosplaytown</a> , <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> , <a href="https://github.com/music-town">@music-town</a>
+<a href="https://github.com/title-town">@title-town</a> , <a href="https://github.com/pt-fashion">@pt-fashion</a> , <a href="https://github.com/pt-friendships">@pt-friendships</a> , <a href="https://github.com/cosplaytown">@cosplaytown</a> , <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> , <a href="https://github.com/music-town">@music-town</a> , <a href="https://github.com/casinotown">@casinotown</a>
  <br><br> $${\color{#c78e4e}thankyyou}$$ 
 $${\color{#deb74e}for}$$
 $${\color{#c78e4e}nominating}$$
