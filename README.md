@@ -41,7 +41,7 @@
 [<img alt="Cog2" width="110" src="https://github.com/user-attachments/assets/dc9c42c5-a5b4-4486-ac52-39f954b081f2"/>](https://en.pronouns.page/@croissantling)
 
 [<img alt="Cog3" width="110" src="https://github.com/user-attachments/assets/100ba95a-92d2-4cf1-a1af-c14b7b991f1c" />](https://rentry.co/edgylords)
-
+[<img alt="Cog4" width="110" src="https://github.com/user-attachments/assets/09883fa9-7fff-4e01-b16c-f925f0f343cd" />](https://rentry.co/tbd-anomalies)
 
 </td>
 </tr>
